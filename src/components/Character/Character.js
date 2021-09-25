@@ -7,14 +7,17 @@ const Character = (props) => {
 
     return (
         <div className='character'>
-            <img src={picture} alt="" />
-            <h2>Name: {name}</h2>
-            <h4>Title: {title}</h4>
-            <p>Age: {age}yr</p>
-            <p>Gender: {gender}</p>
-            <h5>Role: {role}</h5>
-            <p>Price: ${price}</p>
+            <div className='character-info'>
+                <img src={picture} alt="" />
+                <h2>Name: {name}</h2>
+                <h4>Title: {title}</h4>
+                <p>Age: {age} yr</p>
+                <p>Gender: {gender}</p>
+                <h5>Role: {role}</h5>
+                <p>Price: ${price}</p>
+                <button className='cart-btn'>Add to cart</button>
 
+            </div>
 
         </div>
     );

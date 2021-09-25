@@ -7,8 +7,20 @@
     padding: 5px;
    
 }
+.character-info{
+    margin: 10px;
+}
 .character img{
     width:200px;
     height: 150px;
     border-radius: 50%;
+}
+
+.cart-btn{
+    color:white;
+    background-color: rgb(236, 160, 160);
+    border-color: wheat;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
 }

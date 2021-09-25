@@ -6,3 +6,9 @@
   
     height: 150px;
 }
+.header h1{
+    color: rgb(245, 207, 112);
+}
+.header h4{
+    color: gray;
+}
