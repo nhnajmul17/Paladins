@@ -10,6 +10,10 @@
 .character-info{
     margin: 10px;
 }
+.character-info h2{
+    color: rgb(250, 121, 121);
+}
+
 .character img{
     width:200px;
     height: 150px;
@@ -20,7 +24,7 @@
     color:white;
     background-color: rgb(236, 160, 160);
     border-color: wheat;
-    width: 100px;
+    width: 150px;
     height: 30px;
     border-radius: 10px;
 }

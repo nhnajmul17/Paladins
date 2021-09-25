@@ -1,5 +1,10 @@
+.characters-container{
+    display:flex;
+    margin: 20px;
+
+}
 .characters{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    
+
     }

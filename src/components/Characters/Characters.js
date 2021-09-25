@@ -12,7 +12,7 @@ const Characters = () => {
     }, [])
 
     return (
-        <div >
+        <div className='characters-container'>
             <div className='characters'>
                 {
                     characters.map(character => <Character
@@ -20,6 +20,9 @@ const Characters = () => {
                         character={character}></Character>)
                 }
 
+            </div>
+            <div>
+                <h2>Ordered Items:</h2>
             </div>
 
 
