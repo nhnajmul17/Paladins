@@ -1,8 +1,8 @@
 [
   {
     "_id": "614f599a7e3aba4956f417dd",
-    "price": "$3,740.67",
-    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/f/fd/Champion_Seris_Icon.png/revision/latest?cb=20171028064739",
+    "price": 3740.67,
+    "picture": "https://i.pinimg.com/originals/cc/5b/d6/cc5bd618f395916a4ce3d6835193c822.jpg",
     "age": 31,
     "rating": 4,
     "name": "Seris",
@@ -12,8 +12,8 @@
   },
   {
     "_id": "614f599a282d13d99c271e69",
-    "price": "$1,468.31",
-    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/a/a2/Champion_Skye_Icon.png/revision/latest?cb=20171028064837",
+    "price": 1468.31,
+    "picture": "",
     "age": 28,
     "rating": 3,
     "name": "Skye",
@@ -23,7 +23,7 @@
   },
   {
     "_id": "614f599a06d07f2ce4f71973",
-    "price": "$1,316.58",
+    "price": 1316.58,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/a/aa/Champion_ShaLin_Icon.png/revision/latest?cb=20171028064811",
     "age": 25,
     "rating": 3,
@@ -34,7 +34,7 @@
   },
   {
     "_id": "614f599ae3670bcc0d559683",
-    "price": "$3,949.38",
+    "price": 3949.38,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/2/2e/Champion_Zhin_Icon.png/revision/latest?cb=20171028065103",
     "age": 20,
     "rating": 4,
@@ -45,7 +45,7 @@
   },
   {
     "_id": "614f599a56fd237bbbd3bf6a",
-    "price": "$3,322.64",
+    "price": 3322.64,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/9/92/Champion_Strix_Icon.png/revision/latest?cb=20171028064852",
     "age": 25,
     "rating": 2,
@@ -56,7 +56,7 @@
   },
   {
     "_id": "614f5b3795ff4f2543cc8740",
-    "price": "$1,782.15",
+    "price": 1782.15,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/4/4b/Champion_Fernando_Icon.png/revision/latest?cb=20180320080812",
     "age": 37,
     "rating": 5,
@@ -67,8 +67,8 @@
   },
   {
     "_id": "614f5b37faa82fdca8afa9d1",
-    "price": "$3,715.18",
-    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/4/4a/Champion_Androxus_Icon.png/revision/latest?cb=20171028063612",
+    "price": 3715.18,
+    "picture": "https://paladinsdecks.com/fileadmin/paladins/_processed_/2/0/csm_2205_d1cdcd358c.jpg",
     "age": 22,
     "rating": 5,
     "name": "Andro",
@@ -78,7 +78,7 @@
   },
   {
     "_id": "614f5b37e25edcf0a066b315",
-    "price": "$2,013.47",
+    "price": 2013.47,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/d/d3/Champion_Corvus_Icon.png/revision/latest?cb=20200401162212",
     "age": 25,
     "rating": 2,
@@ -89,7 +89,7 @@
   },
   {
     "_id": "614f5b37ef06a1c593d1750b",
-    "price": "$1,732.64",
+    "price": 1732.64,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/b/bb/Champion_Inara_Icon.png/revision/latest?cb=20171028064357",
     "age": 22,
     "rating": 3,
@@ -100,7 +100,7 @@
   },
   {
     "_id": "614f5b377e24ec998f2bda4b",
-    "price": "$2,167.31",
+    "price": 2167.31,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/c/c9/Champion_Mal%27Damba_Icon.png/revision/latest?cb=20171028064629",
     "age": 21,
     "rating": 5,
@@ -111,7 +111,7 @@
   },
   {
     "_id": "614f5c6ededf13e337c150e1",
-    "price": "$3,779.37",
+    "price": 3779.37,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/6/66/Champion_Lian_Icon.png/revision/latest?cb=20171028064532",
     "age": 29,
     "rating": 5,
@@ -122,7 +122,7 @@
   },
   {
     "_id": "614f5c6e73c3a0cfd16af0d5",
-    "price": "$1,873.98",
+    "price": 1873.98,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/e/e0/Champion_Cassie_Icon.png/revision/latest?cb=20171028063849",
     "age": 30,
     "rating": 4,
@@ -133,7 +133,7 @@
   },
   {
     "_id": "614f5c6e9e1367e66aa78ce9",
-    "price": "$1,991.07",
+    "price": 1991.07,
     "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/9/96/Champion_Terminus_Icon.png/revision/latest?cb=20171028064938",
     "age": 38,
     "rating": 3,
