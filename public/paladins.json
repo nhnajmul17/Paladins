@@ -1,0 +1,145 @@
+[
+  {
+    "_id": "614f599a7e3aba4956f417dd",
+    "price": "$3,740.67",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/f/fd/Champion_Seris_Icon.png/revision/latest?cb=20171028064739",
+    "age": 31,
+    "rating": 4,
+    "name": "Seris",
+    "gender": "female",
+    "title": "Oracle of the Abyss",
+    "role": "Support"
+  },
+  {
+    "_id": "614f599a282d13d99c271e69",
+    "price": "$1,468.31",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/a/a2/Champion_Skye_Icon.png/revision/latest?cb=20171028064837",
+    "age": 28,
+    "rating": 3,
+    "name": "Skye",
+    "gender": "female",
+    "title": "The Twilight Assassin",
+    "role": "Flank"
+  },
+  {
+    "_id": "614f599a06d07f2ce4f71973",
+    "price": "$1,316.58",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/a/aa/Champion_ShaLin_Icon.png/revision/latest?cb=20171028064811",
+    "age": 25,
+    "rating": 3,
+    "name": "Shalin",
+    "gender": "male",
+    "title": "The Desert Wind",
+    "role": "Damage"
+  },
+  {
+    "_id": "614f599ae3670bcc0d559683",
+    "price": "$3,949.38",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/2/2e/Champion_Zhin_Icon.png/revision/latest?cb=20171028065103",
+    "age": 20,
+    "rating": 4,
+    "name": "Zhin",
+    "gender": "male",
+    "title": "The Tyrant",
+    "role": "Flank"
+  },
+  {
+    "_id": "614f599a56fd237bbbd3bf6a",
+    "price": "$3,322.64",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/9/92/Champion_Strix_Icon.png/revision/latest?cb=20171028064852",
+    "age": 25,
+    "rating": 2,
+    "name": "Strix",
+    "gender": "male",
+    "title": "Ghost Feather",
+    "role": "Damage"
+  },
+  {
+    "_id": "614f5b3795ff4f2543cc8740",
+    "price": "$1,782.15",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/4/4b/Champion_Fernando_Icon.png/revision/latest?cb=20180320080812",
+    "age": 37,
+    "rating": 5,
+    "name": "Fernando",
+    "gender": "male",
+    "title": "The Self-Appointed Knight",
+    "role": "FrontLine"
+  },
+  {
+    "_id": "614f5b37faa82fdca8afa9d1",
+    "price": "$3,715.18",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/4/4a/Champion_Androxus_Icon.png/revision/latest?cb=20171028063612",
+    "age": 22,
+    "rating": 5,
+    "name": "Andro",
+    "gender": "male",
+    "title": "The Godslayer",
+    "role": "Flank"
+  },
+  {
+    "_id": "614f5b37e25edcf0a066b315",
+    "price": "$2,013.47",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/d/d3/Champion_Corvus_Icon.png/revision/latest?cb=20200401162212",
+    "age": 25,
+    "rating": 2,
+    "name": "Corvus",
+    "gender": "male",
+    "title": "The Magistrate's Blade",
+    "role": "Support"
+  },
+  {
+    "_id": "614f5b37ef06a1c593d1750b",
+    "price": "$1,732.64",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/b/bb/Champion_Inara_Icon.png/revision/latest?cb=20171028064357",
+    "age": 22,
+    "rating": 3,
+    "name": "Inara",
+    "gender": "Female",
+    "title": "The Stone Warden",
+    "role": "FrontLine"
+  },
+  {
+    "_id": "614f5b377e24ec998f2bda4b",
+    "price": "$2,167.31",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/c/c9/Champion_Mal%27Damba_Icon.png/revision/latest?cb=20171028064629",
+    "age": 21,
+    "rating": 5,
+    "name": "MalDamba",
+    "gender": "male",
+    "title": "Wekono's Chosen",
+    "role": "Support"
+  },
+  {
+    "_id": "614f5c6ededf13e337c150e1",
+    "price": "$3,779.37",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/6/66/Champion_Lian_Icon.png/revision/latest?cb=20171028064532",
+    "age": 29,
+    "rating": 5,
+    "name": "Lian",
+    "gender": "female",
+    "title": "Scion of House Aico",
+    "role": "Damage"
+  },
+  {
+    "_id": "614f5c6e73c3a0cfd16af0d5",
+    "price": "$1,873.98",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/e/e0/Champion_Cassie_Icon.png/revision/latest?cb=20171028063849",
+    "age": 30,
+    "rating": 4,
+    "name": "Cassie",
+    "gender": "female",
+    "title": "The Hunter's Daughter",
+    "role": "Damage"
+  },
+  {
+    "_id": "614f5c6e9e1367e66aa78ce9",
+    "price": "$1,991.07",
+    "picture": "https://static.wikia.nocookie.net/paladins_gamepedia/images/9/96/Champion_Terminus_Icon.png/revision/latest?cb=20171028064938",
+    "age": 38,
+    "rating": 3,
+    "name": "Terminus",
+    "gender": "male",
+    "title": "The Fallen",
+    "role": "FrontLine"
+  }
+]
