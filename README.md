@@ -1,23 +1,19 @@
-# Paldins Champions of the Realm
+# Paladins Champions of the Realm
 
 The Live Server of this project : (https://buy-paladins-champions.netlify.app)
 
 Paladins: Champions of the Realm is a 2018 free-to-play online hero shooter video game by Hi-Rez. The game was developed by Evil Mojo, an internal studio of Hi-Rez and was released on May 8, 2018 for Microsoft Windows, PlayStation 4, and Xbox One, followed by a Nintendo Switch version released on June 12, 2018.
 
+This is a gaming related website where you can buy game insider character for yourself for the battle field.
+
 *Buy the Game Characters From this site.\
 *Buy New upComing Characters before anyone can buy that.\
-*Claim lots of offer from here.
+*Claim lots of offer from here.\
+*Easy way to find the suitable character for yourself.\
 
 
-
-
-
-
-
-
-
-
-
+\
+\
 
 
 
