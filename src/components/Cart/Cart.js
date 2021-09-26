@@ -10,10 +10,8 @@ const Cart = (props) => {
     let name = ''
     for (const character of cart) {
         total = total + character.price;
-        name = name + ', ' + character.name
-
+        name = name + ' ' + character.name + ',';
     }
-
 
     if (total > 10000) {
         alert('You have crossed your budget');
@@ -26,7 +24,9 @@ const Cart = (props) => {
             <p>Selected Characters</p>
             <p>{name}</p>
         </div>
+
     );
+
 };
 
 export default Cart;
