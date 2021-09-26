@@ -10,6 +10,8 @@ const Header = () => {
             <img src={logo} alt="" />
             <h1>Champions of The Realm</h1>
             <h4>Battle For the Iron Throne</h4>
+            <p>Make your Champions Team For the Great Battle.</p>
+            <h1>Total Budget : $10,000</h1>
 
         </div>
     );

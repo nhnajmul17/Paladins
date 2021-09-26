@@ -17,7 +17,7 @@ const Character = (props) => {
                 <p>Gender: {gender}</p>
                 <h5>Role: {role}</h5>
                 <p>Price: ${price}</p>
-                <button className='cart-btn'> <FontAwesomeIcon icon={faShoppingCart} /> Add to cart</button>
+                <button onClick={() => props.handleAddToCart(props.character)} className='cart-btn'> <FontAwesomeIcon icon={faShoppingCart} /> Add to cart</button>
 
             </div>
 
