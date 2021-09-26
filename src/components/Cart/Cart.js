@@ -17,6 +17,8 @@ const Cart = (props) => {
         alert('You have crossed your budget');
 
     }
+
+
     return (
         <div className='cart'>
             <h2> <FontAwesomeIcon icon={faUser} /> Ordered Characters: {props.cart.length}</h2>

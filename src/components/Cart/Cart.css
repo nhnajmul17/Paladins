@@ -1,4 +1,6 @@
 .cart{
+    position: sticky;
+    top:0;
     text-align: center;
     margin: 10px;
     background-color:rgb(179, 239, 247);
