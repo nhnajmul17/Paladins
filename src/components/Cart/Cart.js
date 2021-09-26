@@ -13,7 +13,7 @@ const Cart = (props) => {
         name = name + ' ' + character.name + ',';
     }
 
-    if (total > 10000) {
+    if (total > 15000) {
         alert('You have crossed your budget');
 
     }
