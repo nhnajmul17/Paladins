@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <div className='header'>
             <img src={logo} alt="" />
-            <h1>Champions of The Realm</h1>
+            <h1>Champions Of The Realm</h1>
             <h4>Battle For the Iron Throne</h4>
             <p>Make your Champions Team For the Great Battle.</p>
             <h1>Total Budget : $15,000</h1>
